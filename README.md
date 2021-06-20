@@ -4,6 +4,7 @@
     Me chamo <strong>Ana Carolina Sanches</strong> e atualmente sou acadêmica do curso de Análise e Desenvolvimento de Sistemas  na Fatec Itu.
 </p> 
 ## Github Overview
+
 <img align="left" alt="AnaCarolinaSanches Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaSanches&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaSanches)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
