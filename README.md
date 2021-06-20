@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello 👋
 
+<p>
+    Me chamo <strong>Ana Carolina Sanches</strong> e atualmente sou acadêmica do curso de Análise e Desenvolvimento de Sistemas  na Fatec Itu.
+</p> 
 <!--
 **AnaCarolinaSanches/AnaCarolinaSanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
